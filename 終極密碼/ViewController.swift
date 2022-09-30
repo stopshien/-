@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  終極密碼
 //
-//  Created by 潘立婷 on 2022/7/7.
+//  Created by stopshien on 2022/7/7.
 //
 
 import UIKit
